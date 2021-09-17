@@ -30,3 +30,9 @@ or
 2. user profile icon
 3. sign in to sync settings
 4. select sign in with github
+
+
+# Deploying to netlify
+1. account at netlify
+2. click on team name select sites.
+3. site click on deploy from git.
